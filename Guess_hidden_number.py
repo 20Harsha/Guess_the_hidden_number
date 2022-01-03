@@ -1,4 +1,5 @@
 """
+Hello Everyone
 This a simple game where you have to guess the hidden number between 1 and 21.
 """
 import random
